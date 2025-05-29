@@ -7,12 +7,12 @@ Este projeto tem como objetivo o desenvolvimento de uma página de login utiliza
 
 ![Imagem página de login](https://github.com/user-attachments/assets/b7107c04-fac9-4940-a065-d1921a2b749f)
 
-### Tecnologias utilizadas:
+### Tecnologias utilizadas
 
 * HTML
 * CSS
 
-### Como executar o projeto:
+### Como executar o projeto
 
 Para executar o projeto, siga os seguintes passos:
 
